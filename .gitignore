@@ -1,0 +1,19 @@
+# Node modules
+node_modules
+
+# Code Climate prepare files
+.eslintrc.base.js
+base_rubocop.yml
+rails_rubocop.yml
+app/.cache
+
+# Local Netlify folder
+.netlify
+
+# JetBrains
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
